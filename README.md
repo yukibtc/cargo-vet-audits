@@ -7,7 +7,7 @@ Personal `cargo-vet` audits.
 To import these audits in another `cargo-vet` instance, use the following command:
 
 ```bash
-cargo vet import yukikishimoto https://github.com/yukibtc/cargo-vet-audits
+cargo vet import yukikishimoto https://raw.githubusercontent.com/yukibtc/cargo-vet-audits/master/audits.toml
 ```
 
 ## License
