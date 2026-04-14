@@ -7,6 +7,11 @@ criteria = "safe-to-deploy"
 version = "0.3.13"
 notes = "Full audit"
 
+[[audits.futures-core]]
+who = "Yuki Kishimoto <yukikishimoto@protonmail.com>"
+criteria = "safe-to-deploy"
+delta = "0.3.13 -> 0.3.32"
+
 [[audits.lru]]
 who = "Yuki Kishimoto <yukikishimoto@protonmail.com>"
 criteria = "safe-to-deploy"
