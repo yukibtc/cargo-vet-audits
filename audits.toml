@@ -24,6 +24,12 @@ criteria = "safe-to-deploy"
 version = "0.3.32"
 notes = "Full audit"
 
+[[audits.futures-task]]
+who = "Yuki Kishimoto <yukikishimoto@protonmail.com>"
+criteria = "safe-to-deploy"
+version = "0.3.32"
+notes = "Full audit"
+
 [[audits.lru]]
 who = "Yuki Kishimoto <yukikishimoto@protonmail.com>"
 criteria = "safe-to-deploy"
