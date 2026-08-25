@@ -7,6 +7,12 @@ criteria = "safe-to-deploy"
 version = "0.8.2"
 notes = "Full audit"
 
+[[audits.aead]]
+who = "Yuki Kishimoto <yukikishimoto@protonmail.com>"
+criteria = "safe-to-deploy"
+version = "0.6.1"
+notes = "Full audit"
+
 [[audits.futures]]
 who = "Yuki Kishimoto <yukikishimoto@protonmail.com>"
 criteria = "safe-to-deploy"
