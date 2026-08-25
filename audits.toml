@@ -92,6 +92,12 @@ criteria = "safe-to-deploy"
 delta = "0.16.2 -> 0.16.3"
 notes = "No unsafe differences from v0.16.2"
 
+[[audits.try-lock]]
+who = "Yuki Kishimoto <yukikishimoto@protonmail.com>"
+criteria = "safe-to-deploy"
+version = "0.2.5"
+notes = "Full audit"
+
 [[audits.uniffi_pipeline]]
 who = "Yuki Kishimoto <yukikishimoto@protonmail.com>"
 criteria = "safe-to-deploy"
