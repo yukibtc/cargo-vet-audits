@@ -24,6 +24,12 @@ criteria = "safe-to-deploy"
 version = "0.10.3"
 notes = "Full audit"
 
+[[audits.aes-gcm-siv]]
+who = "Yuki Kishimoto <yukikishimoto@protonmail.com>"
+criteria = "safe-to-deploy"
+version = "0.10.3"
+notes = "Full audit"
+
 [[audits.futures]]
 who = "Yuki Kishimoto <yukikishimoto@protonmail.com>"
 criteria = "safe-to-deploy"
