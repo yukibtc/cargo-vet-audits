@@ -10,8 +10,13 @@ notes = "Full audit"
 [[audits.aead]]
 who = "Yuki Kishimoto <yukikishimoto@protonmail.com>"
 criteria = "safe-to-deploy"
-version = "0.6.1"
+version = "0.5.2"
 notes = "Full audit"
+
+[[audits.aead]]
+who = "Yuki Kishimoto <yukikishimoto@protonmail.com>"
+criteria = "safe-to-deploy"
+delta = "0.5.2 -> 0.6.1"
 
 [[audits.futures]]
 who = "Yuki Kishimoto <yukikishimoto@protonmail.com>"
