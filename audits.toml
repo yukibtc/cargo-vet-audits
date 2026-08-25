@@ -98,6 +98,11 @@ criteria = "safe-to-deploy"
 delta = "0.16.2 -> 0.16.3"
 notes = "No unsafe differences from v0.16.2"
 
+[[audits.n0-mainline]]
+who = "Yuki Kishimoto <yukikishimoto@protonmail.com>"
+criteria = "safe-to-deploy"
+delta = "0.5.0 -> 0.6.0"
+
 [[audits.try-lock]]
 who = "Yuki Kishimoto <yukikishimoto@protonmail.com>"
 criteria = "safe-to-deploy"
