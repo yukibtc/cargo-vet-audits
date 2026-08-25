@@ -30,6 +30,12 @@ criteria = "safe-to-deploy"
 version = "0.10.3"
 notes = "Full audit"
 
+[[audits.alloca]]
+who = "Yuki Kishimoto <yukikishimoto@protonmail.com>"
+criteria = "safe-to-deploy"
+version = "0.4.0"
+notes = "Full audit"
+
 [[audits.futures]]
 who = "Yuki Kishimoto <yukikishimoto@protonmail.com>"
 criteria = "safe-to-deploy"
