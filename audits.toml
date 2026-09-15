@@ -108,6 +108,11 @@ who = "Yuki Kishimoto <yukikishimoto@protonmail.com>"
 criteria = "safe-to-deploy"
 delta = "0.5.0 -> 0.6.0"
 
+[[audits.rustls]]
+who = "Yuki Kishimoto <yukikishimoto@protonmail.com>"
+criteria = "safe-to-deploy"
+delta = "0.23.43 -> 0.23.45"
+
 [[audits.try-lock]]
 who = "Yuki Kishimoto <yukikishimoto@protonmail.com>"
 criteria = "safe-to-deploy"
